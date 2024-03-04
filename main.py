@@ -14,5 +14,6 @@ if __name__ == '__main__':
 
     for _ in range(9):
         print('git the most better!!!')
+        print(100 + 200)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
