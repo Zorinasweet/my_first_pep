@@ -11,8 +11,8 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
-    for _ in range(10):
-        print('git the better!!!')
+
+    for _ in range(9):
+        print('git the most better!!!')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
